@@ -1,0 +1,14 @@
+/* .navbar-nav li:first-child{ 
+	background: rgba(5, 120, 85,.8);
+	border-radius: 3px;
+    color: white !important
+} */
+.navbar-nav li{
+    color:rgb(0, 131, 116);
+}
+.navbar-nav li .active{
+    /* opacity: .7; */
+	background: rgba(5, 120, 85,.8);
+	border-radius: 3px;
+    color: white !important
+}
