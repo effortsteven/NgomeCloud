@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ngomecloud/static/js/main.eb1077a6.chunk.js",
+    "main.js.map": "/ngomecloud/static/js/main.eb1077a6.chunk.js.map",
+    "runtime~main.js": "/ngomecloud/static/js/runtime~main.23c58970.js",
+    "runtime~main.js.map": "/ngomecloud/static/js/runtime~main.23c58970.js.map",
+    "static/js/2.82280ceb.chunk.js": "/ngomecloud/static/js/2.82280ceb.chunk.js",
+    "static/js/2.82280ceb.chunk.js.map": "/ngomecloud/static/js/2.82280ceb.chunk.js.map",
+    "index.html": "/ngomecloud/index.html",
+    "precache-manifest.a48498445c250445e90fcb74a2009d4c.js": "/ngomecloud/precache-manifest.a48498445c250445e90fcb74a2009d4c.js",
+    "service-worker.js": "/ngomecloud/service-worker.js"
+  }
+}
