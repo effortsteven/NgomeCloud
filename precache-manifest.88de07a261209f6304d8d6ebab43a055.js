@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ngomecloud/static/media/flask.d06e73bb.png"
   },
   {
-    "revision": "aff98c1d370ced517128",
+    "revision": "9e15e9143eb97e38367a",
     "url": "/ngomecloud/static/css/main.794b09a5.chunk.css"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/ngomecloud/static/media/django.1d528e2c.png"
   },
   {
-    "revision": "aff98c1d370ced517128",
-    "url": "/ngomecloud/static/js/main.aff98c1d.chunk.js"
+    "revision": "9e15e9143eb97e38367a",
+    "url": "/ngomecloud/static/js/main.9e15e914.chunk.js"
   },
   {
     "revision": "532cc05ca24903c6b3f88af1580dc593",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/ngomecloud/static/media/profile-bg.baf6b40a.jpg"
   },
   {
-    "revision": "3ed439d00114463ea2e12abf4539b8b8",
+    "revision": "0f7a604964746a180d3510e066c2e216",
     "url": "/ngomecloud/index.html"
   }
 ];
