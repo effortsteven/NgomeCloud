@@ -1,31 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "08e18cb904f0f3c6dd9e3d4ed72e0eca",
-    "url": "/ngomecloud/static/media/landing.08e18cb9.jpg"
+    "revision": "d06e73bbb0a75dd313f6919b6144d02d",
+    "url": "/ngomecloud/static/media/flask.d06e73bb.png"
   },
   {
-    "revision": "e229f31a25d9c76ed6d1",
-    "url": "/ngomecloud/static/css/main.f236a27a.chunk.css"
+    "revision": "6d03ca1d9cbb99202888",
+    "url": "/ngomecloud/static/css/main.794b09a5.chunk.css"
   },
   {
     "revision": "0b76c963717d708f482a",
     "url": "/ngomecloud/static/js/runtime~main.0b76c963.js"
   },
   {
-    "revision": "94ec444ef278c11105b7",
-    "url": "/ngomecloud/static/js/2.94ec444e.chunk.js"
-  },
-  {
-    "revision": "f1d71f777331fd7e3de116edf4ee3b67",
-    "url": "/ngomecloud/static/media/avatar.f1d71f77.jpg"
-  },
-  {
-    "revision": "e52419719dd0c4c8b172136f0b625008",
-    "url": "/ngomecloud/static/media/bg.e5241971.jpg"
+    "revision": "de1dc49eed15de9c2605",
+    "url": "/ngomecloud/static/js/2.de1dc49e.chunk.js"
   },
   {
     "revision": "56633ed3f62f39d71f571374a6409e65",
     "url": "/ngomecloud/static/media/christian.56633ed3.jpg"
+  },
+  {
+    "revision": "08e18cb904f0f3c6dd9e3d4ed72e0eca",
+    "url": "/ngomecloud/static/media/landing.08e18cb9.jpg"
   },
   {
     "revision": "ae0150c08dbcc95e4f50458e02e5bd5c",
@@ -44,28 +40,48 @@ self.__precacheManifest = [
     "url": "/ngomecloud/static/media/mariya-georgieva.4575c40b.jpg"
   },
   {
-    "revision": "843781834b1db2908f08d921c6460c81",
-    "url": "/ngomecloud/static/media/bg2.84378183.jpg"
+    "revision": "ff9dab818f12979c5da741aa6946325e",
+    "url": "/ngomecloud/static/media/boot.ff9dab81.png"
   },
   {
-    "revision": "e76de24b6d8ab5e920bb4d49241ad15f",
-    "url": "/ngomecloud/static/media/bg3.e76de24b.jpg"
+    "revision": "df2e702629c1a73e440349c602142828",
+    "url": "/ngomecloud/static/media/android.df2e7026.png"
   },
   {
-    "revision": "cf8b686b294041d0925f4e745b1fabb9",
-    "url": "/ngomecloud/static/media/sign.cf8b686b.jpg"
+    "revision": "51159bde9296a6cf1fa8994b1753ef1d",
+    "url": "/ngomecloud/static/media/kotlin.51159bde.png"
   },
   {
-    "revision": "e229f31a25d9c76ed6d1",
-    "url": "/ngomecloud/static/js/main.e229f31a.chunk.js"
+    "revision": "d5556b807e74c5f1ba534192a5352d7a",
+    "url": "/ngomecloud/static/media/laravel.d5556b80.png"
   },
   {
-    "revision": "090a5aabae505f67ee0981613d02ee05",
-    "url": "/ngomecloud/static/media/profile.090a5aab.jpg"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/ngomecloud/static/media/react.5d5d9eef.svg"
   },
   {
-    "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
-    "url": "/ngomecloud/static/media/kendall.e0508cc9.jpg"
+    "revision": "1d528e2cb5fbc29ad16c74e5d883c371",
+    "url": "/ngomecloud/static/media/django.1d528e2c.png"
+  },
+  {
+    "revision": "6d03ca1d9cbb99202888",
+    "url": "/ngomecloud/static/js/main.6d03ca1d.chunk.js"
+  },
+  {
+    "revision": "532cc05ca24903c6b3f88af1580dc593",
+    "url": "/ngomecloud/static/media/mob.532cc05c.svg"
+  },
+  {
+    "revision": "ff99aa2f3a773856020e6b717e5c44b3",
+    "url": "/ngomecloud/static/media/device.ff99aa2f.svg"
+  },
+  {
+    "revision": "fcabefd48aa261a2a37d990bf054777e",
+    "url": "/ngomecloud/static/media/database.fcabefd4.svg"
+  },
+  {
+    "revision": "0c31d088764114072552e6e11dfbb1a7",
+    "url": "/ngomecloud/static/media/spa.0c31d088.svg"
   },
   {
     "revision": "76e2987ed95634136dd22d4d9e1009a7",
@@ -96,19 +112,19 @@ self.__precacheManifest = [
     "url": "/ngomecloud/static/media/bg7.b08234a2.jpg"
   },
   {
-    "revision": "199e9ec14308832c6a8a49bd96c1fde6",
-    "url": "/ngomecloud/static/media/bg4.199e9ec1.jpg"
-  },
-  {
     "revision": "df8fd3efcd662b64b44de07f351c838b",
     "url": "/ngomecloud/static/media/landing-bg.df8fd3ef.jpg"
+  },
+  {
+    "revision": "843781834b1db2908f08d921c6460c81",
+    "url": "/ngomecloud/static/media/bg2.84378183.jpg"
   },
   {
     "revision": "baf6b40a654b078399e93e3d9cb6d455",
     "url": "/ngomecloud/static/media/profile-bg.baf6b40a.jpg"
   },
   {
-    "revision": "4167149e50f0d3cb1ed761a83f77d7ba",
+    "revision": "946614adab4a735bc7f5c44dbe675bd5",
     "url": "/ngomecloud/index.html"
   }
 ];
